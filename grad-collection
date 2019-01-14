@@ -1,0 +1,41 @@
+#blue-green
+background-color: #08AEEA;
+background-image: linear-gradient(135deg, #08AEEA 0%, #46cf8f 100%);
+#blue-vio
+background-color: #21D4FD;
+background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+#ashess
+background-color: #8EC5FC;
+background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+#pinkis
+background-color: #FEE140;
+background-image: linear-gradient(319deg, #FEE140 0%, #FA709A 100%);
+#mangoli
+background-color: #FBAB7E;
+background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+#sky-falls
+background-color: #0093E9;
+background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+#sky-lin
+background-color: #74EBD5;
+background-image: linear-gradient(204deg, #74EBD5 0%, #9FACE6 100%);
+#grenn prop
+background-color: #F4D03F;
+background-image: linear-gradient(132deg, #F4D03F 0%, #68a016 100%);
+#light-prop
+background-color: #D9AFD9;
+background-image: linear-gradient(331deg, #D9AFD9 0%, #97D9E1 100%);
+#mangooo-lin
+background-color: #85FFBD;
+background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+#awesome-blue
+background-color: #8BC6EC;
+background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+#grade-gray
+background: #bdc3c7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+#azure-len
+background: #7F7FD5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
