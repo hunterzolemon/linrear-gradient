@@ -28,6 +28,12 @@ background-image: linear-gradient(331deg, #D9AFD9 0%, #97D9E1 100%);
 #mangooo-lin
 background-color: #85FFBD;
 background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+#awe-blue
+background-image: linear-gradient(to right, #1470f9, #009aff, #00beff, #00ddff, #6bf9ff);
+#yo-white
+ background-image: linear-gradient(to right bottom, #cee0fb, #bae4ff, #a0e9ff, #83eeff, #69f2f9);
+ #pinkis-back
+  background-image: linear-gradient(to right bottom, #decfee, #ddcdee, #ddcaed, #dcc8ed, #dcc5ec);
 #awesome-blue
 background-color: #8BC6EC;
 background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
